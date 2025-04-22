@@ -9,3 +9,4 @@ A documentation tool that integrates with Jira and helps teams collaborate on pr
 ### Figma
 A collaborative design tool used to create wireframes and UI mockups.
  
+**Lucidchart**: A popular online diagramming tool used by BAs for creating flowcharts, wireframes, and process maps.
