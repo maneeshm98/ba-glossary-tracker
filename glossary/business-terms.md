@@ -9,3 +9,4 @@ A document that outlines the business solution for a project including the docum
 ### SRS (Software Requirements Specification)
 A detailed description of the software system to be developed, including functional and non-functional requirements.
  
+**Stakeholder Analysis**: The process of identifying and analyzing stakeholders to understand their needs, influence, and impact on the project.
